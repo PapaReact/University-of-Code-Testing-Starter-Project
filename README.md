@@ -5,3 +5,4 @@ Firstly if you are a part of the University of Code then make sure to check this
 
 ## If you want to be a part and learn more about The University of Code then [Click Here](https://www.papareact.com/universityofcode).
 
+![Logo of University of Code](https://i.imgur.com/oVRczoO.png)
